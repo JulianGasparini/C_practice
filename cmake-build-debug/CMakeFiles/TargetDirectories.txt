@@ -1,0 +1,3 @@
+G:/Mi unidad/AYP3/cmake-build-debug/CMakeFiles/AYP3.dir
+G:/Mi unidad/AYP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Mi unidad/AYP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
